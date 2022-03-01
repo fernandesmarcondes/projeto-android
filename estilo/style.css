@@ -27,7 +27,7 @@
 }
 
 a.externo::after {
-    content: '\00A0\00A0\1F517';
+    content: '\1F517';
 }
 
 body {
@@ -134,7 +134,7 @@ main a {
     font-weight: bold;
     text-decoration: none;
     background-color: var(--cor2);
-    padding: 2px 5px;
+    padding: 2px 2px;
 }
 
 main a:hover {
